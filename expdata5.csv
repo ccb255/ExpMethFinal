@@ -1,0 +1,325 @@
+item,disambig,sentence,qtype,question,answer,group
+1,ambig,The sister of the actress who shot herself on the balcony was under investigation.,Int,Was there an award?,No,c
+1,n1,The brother of the actress who shot himself on the balcony was under investigation.,Int,Was there an award?,No,f
+1,n2,The brother of the actress who shot herself on the balcony was under investigation.,Int,Was there an award?,No,i
+1,ambig,The sister of the actress who shot herself on the balcony was under investigation.,Rel,Did the sister get shot?,Yes/No,a
+1,n1,The brother of the actress who shot himself on the balcony was under investigation.,Rel,Did the actress get shot?,No,d
+1,n2,The brother of the actress who shot herself on the balcony was under investigation.,Rel,Did the brother get shot?,No,g
+1,ambig,The sister of the actress who shot herself on the balcony was under investigation.,Sup,Was there an award?,No,b
+1,n1,The brother of the actress who shot himself on the balcony was under investigation.,Sup,Was there an award?,No,e
+1,n2,The brother of the actress who shot herself on the balcony was under investigation.,Sup,Was there an award?,No,h
+2,n2,The sister of the fireman who criticized himself far too often was painting the bedroom.,Int,,Yes,c
+2,ambig,The uncle of the fireman who criticized himself far too often was painting the bedroom.,Int,,Yes,f
+2,n1,The sister of the fireman who criticized herself far too often was painting the bedroom.,Int,,Yes,i
+2,n2,The sister of the fireman who criticized himself far too often was painting the bedroom.,Rel,Was the fireman self-critical?,Yes,a
+2,ambig,The uncle of the fireman who criticized himself far too often was painting the bedroom.,Rel,Was the uncle self-critical?,Yes/No,d
+2,n1,The sister of the fireman who criticized herself far too often was painting the bedroom.,Rel,Was the sister self-critical?,Yes,g
+2,n2,The sister of the fireman who criticized himself far too often was painting the bedroom.,Sup,Was the bedroom being painted?,Yes,b
+2,ambig,The uncle of the fireman who criticized himself far too often was painting the bedroom.,Sup,Was the bedroom being painted?,Yes,e
+2,n1,The sister of the fireman who criticized herself far too often was painting the bedroom.,Sup,Was the bedroom being painted?,Yes,h
+3,n1,The aunt of the salesman who amused herself quite a bit was writing a letter to the editor.,Int,,No,c
+3,n2,The aunt of the salesman who amused himself quite a bit was writing a letter to the editor.,Int,,No,f
+3,ambig,The brother of the salesman who amused himself quite a bit was writing a letter to the editor.,Int,,No,i
+3,n1,The aunt of the salesman who amused herself quite a bit was writing a letter to the editor.,Rel,Was the salesman amused?,No,a
+3,n2,The aunt of the salesman who amused himself quite a bit was writing a letter to the editor.,Rel,Was the aunt amused?,No,d
+3,ambig,The brother of the salesman who amused himself quite a bit was writing a letter to the editor.,Rel,Was the brother amused?,Yes/No,g
+3,n1,The aunt of the salesman who amused herself quite a bit was writing a letter to the editor.,Sup,Was someone writing a book?,No,b
+3,n2,The aunt of the salesman who amused himself quite a bit was writing a letter to the editor.,Sup,Was someone writing a book?,No,e
+3,ambig,The brother of the salesman who amused himself quite a bit was writing a letter to the editor.,Sup,Was someone writing a book?,No,h
+4,ambig,The mother of the bride who embarrassed herself at the reception was complaining to the priest.,Int,,Yes,c
+4,n1,The father of the bride who embarrassed himself at the reception was complaining to the priest.,Int,,Yes,f
+4,n2,The father of the bride who embarrassed herself at the reception was complaining to the priest.,Int,,Yes,i
+4,ambig,The mother of the bride who embarrassed herself at the reception was complaining to the priest.,Rel,Was the mother embarrassed?,Yes/No,a
+4,n1,The father of the bride who embarrassed himself at the reception was complaining to the priest.,Rel,Was the father embarrassed?,Yes,d
+4,n2,The father of the bride who embarrassed herself at the reception was complaining to the priest.,Rel,Was the bride embarrassed?,Yes,g
+4,ambig,The mother of the bride who embarrassed herself at the reception was complaining to the priest.,Sup,Did someone complain to the priest?,Yes,b
+4,n1,The father of the bride who embarrassed himself at the reception was complaining to the priest.,Sup,Did someone complain to the priest?,Yes,e
+4,n2,The father of the bride who embarrassed herself at the reception was complaining to the priest.,Sup,Did someone complain to the priest?,Yes,h
+5,n2,The aunt of the clergyman who injured himself last summer was concerned about the infection.,Int,,No,c
+5,ambig,The uncle of the clergyman who injured himself last summer was concerned about the infection.,Int,,No,f
+5,n1,The aunt of the clergyman who injured herself last summer was concerned about the infection.,Int,,No,i
+5,n2,The aunt of the clergyman who injured himself last summer was concerned about the infection.,Rel,Did the aunt get injured?,No,a
+5,ambig,The uncle of the clergyman who injured himself last summer was concerned about the infection.,Rel,Did the uncle get injured?,Yes/No,d
+5,n1,The aunt of the clergyman who injured herself last summer was concerned about the infection.,Rel,Did the clergyman get injured?,No,g
+5,n2,The aunt of the clergyman who injured himself last summer was concerned about the infection.,Sup,Was there confusion about the infection?,No,b
+5,ambig,The uncle of the clergyman who injured himself last summer was concerned about the infection.,Sup,Was there confusion about the infection?,No,e
+5,n1,The aunt of the clergyman who injured herself last summer was concerned about the infection.,Sup,Was there confusion about the infection?,No,h
+6,n1,The mother of the policeman who complimented herself constantly was bothered by the reporter.,Int,,Yes,c
+6,n2,The mother of the policeman who complimented himself constantly was bothered by the reporter.,Int,,Yes,f
+6,ambig,The brother of the policeman who complimented himself constantly was bothered by the reporter.,Int,,Yes,i
+6,n1,The mother of the policeman who complimented herself constantly was bothered by the reporter.,Rel,Did the mother like compliments?,Yes,a
+6,n2,The mother of the policeman who complimented himself constantly was bothered by the reporter.,Rel,Did the policeman like compliments?,Yes,d
+6,ambig,The brother of the policeman who complimented himself constantly was bothered by the reporter.,Rel,Did the brother like compliments?,Yes/No,g
+6,n1,The mother of the policeman who complimented herself constantly was bothered by the reporter.,Sup,Did the reporter bother anyone?,Yes,b
+6,n2,The mother of the policeman who complimented himself constantly was bothered by the reporter.,Sup,Did the reporter bother anyone?,Yes,e
+6,ambig,The brother of the policeman who complimented himself constantly was bothered by the reporter.,Sup,Did the reporter bother anyone?,Yes,h
+7,ambig,The niece of the waitress who hurt herself on the bicycle was angry about the incident.,Int,,No,c
+7,n1,The nephew of the waitress who hurt himself on the bicycle was angry about the incident.,Int,,No,f
+7,n2,The nephew of the waitress who hurt herself on the bicycle was angry about the incident.,Int,,No,i
+7,ambig,The niece of the waitress who hurt herself on the bicycle was angry about the incident.,Rel,Did the niece get hurt?,Yes/No,a
+7,n1,The nephew of the waitress who hurt himself on the bicycle was angry about the incident.,Rel,Did the nephew get hurt?,No,d
+7,n2,The nephew of the waitress who hurt herself on the bicycle was angry about the incident.,Rel,Did the waitress get hurt?,No,g
+7,ambig,The niece of the waitress who hurt herself on the bicycle was angry about the incident.,Sup,Was anyone excited?,No,b
+7,n1,The nephew of the waitress who hurt himself on the bicycle was angry about the incident.,Sup,Was anyone excited?,No,e
+7,n2,The nephew of the waitress who hurt herself on the bicycle was angry about the incident.,Sup,Was anyone excited?,No,h
+8,n2,The brother of the seamstress who entertained herself most evenings was reading a book.,Int,,Yes,c
+8,ambig,The sister of the seamstress who entertained herself most evenings was reading a book.,Int,,Yes,f
+8,n1,The brother of the seamstress who entertained himself most evenings was reading a book.,Int,,Yes,i
+8,n2,The brother of the seamstress who entertained herself most evenings was reading a book.,Rel,Was the seamstress entertained most evenings?,Yes,a
+8,ambig,The sister of the seamstress who entertained herself most evenings was reading a book.,Rel,Was the sister entertained most evenings?,Yes/No,d
+8,n1,The brother of the seamstress who entertained himself most evenings was reading a book.,Rel,Was the brother entertained most evenings?,Yes,g
+8,n2,The brother of the seamstress who entertained herself most evenings was reading a book.,Sup,Did anyone have a book?,Yes,b
+8,ambig,The sister of the seamstress who entertained herself most evenings was reading a book.,Sup,Did anyone have a book?,Yes,e
+8,n1,The brother of the seamstress who entertained himself most evenings was reading a book.,Sup,Did anyone have a book?,Yes,h
+9,n1,The brother of the schoolgirl who burned himself the other day was usually very careful.,Int,,No,c
+9,n2,The brother of the schoolgirl who burned herself the other day was usually very careful.,Int,,No,f
+9,ambig,The sister of the schoolgirl who burned herself the other day was usually very careful.,Int,,No,i
+9,n1,The brother of the schoolgirl who burned himself the other day was usually very careful.,Rel,Did the schoolgirl get burned?,No,a
+9,n2,The brother of the schoolgirl who burned herself the other day was usually very careful.,Rel,Did the brother get burned?,No,d
+9,ambig,The sister of the schoolgirl who burned herself the other day was usually very careful.,Rel,Did the sister get burned?,Yes/No,g
+9,n1,The brother of the schoolgirl who burned himself the other day was usually very careful.,Sup,Was someone usually reckless?,No,b
+9,n2,The brother of the schoolgirl who burned herself the other day was usually very careful.,Sup,Was someone usually reckless?,No,e
+9,ambig,The sister of the schoolgirl who burned herself the other day was usually very careful.,Sup,Was someone usually reckless?,No,h
+10,ambig,The aunt of the nun who lost herself in thought was disturbed by the noise.,Int,,Yes,c
+10,n1,The uncle of the nun who lost himself in thought was disturbed by the noise.,Int,,Yes,f
+10,n2,The uncle of the nun who lost herself in thought was disturbed by the noise.,Int,,Yes,i
+10,ambig,The aunt of the nun who lost herself in thought was disturbed by the noise.,Rel,Was the aunt lost in thought?,Yes/No,a
+10,n1,The uncle of the nun who lost himself in thought was disturbed by the noise.,Rel,Was the uncle lost in thought?,Yes,d
+10,n2,The uncle of the nun who lost herself in thought was disturbed by the noise.,Rel,Was the nun lost in thought?,Yes,g
+10,ambig,The aunt of the nun who lost herself in thought was disturbed by the noise.,Sup,Was there a disturbing noise?,Yes,b
+10,n1,The uncle of the nun who lost himself in thought was disturbed by the noise.,Sup,Was there a disturbing noise?,Yes,e
+10,n2,The uncle of the nun who lost herself in thought was disturbed by the noise.,Sup,Was there a disturbing noise?,Yes,h
+11,n2,The mother of the congressman who made a fool of himself at the party was greatly embarrassed.,Int,,No,c
+11,ambig,The father of the congressman who made a fool of himself at the party was greatly embarrassed.,Int,,No,f
+11,n1,The mother of the congressman who made a fool of herself at the party was greatly embarrassed.,Int,,No,i
+11,n2,The mother of the congressman who made a fool of himself at the party was greatly embarrassed.,Rel,Did the mother act like a fool?,No,a
+11,ambig,The father of the congressman who made a fool of himself at the party was greatly embarrassed.,Rel,Did the father act like a fool?,Yes/No,d
+11,n1,The mother of the congressman who made a fool of herself at the party was greatly embarrassed.,Rel,Did the congressman act like a fool?,No,g
+11,n2,The mother of the congressman who made a fool of himself at the party was greatly embarrassed.,Sup,Was anyone proud?,No,b
+11,ambig,The father of the congressman who made a fool of himself at the party was greatly embarrassed.,Sup,Was anyone proud?,No,e
+11,n1,The mother of the congressman who made a fool of herself at the party was greatly embarrassed.,Sup,Was anyone proud?,No,h
+12,n1,The son of the princess who scratched himself in public was terribly humiliated.,Int,,Yes,c
+12,n2,The son of the princess who scratched herself in public was terribly humiliated.,Int,,Yes,f
+12,ambig,The maid of the princess who scratched herself in public was terribly humiliated.,Int,,Yes,i
+12,n1,The son of the princess who scratched himself in public was terribly humiliated.,Rel,Did the son scratch in public?,Yes,a
+12,n2,The son of the princess who scratched herself in public was terribly humiliated.,Rel,Did the princess scratch in public?,Yes,d
+12,ambig,The maid of the princess who scratched herself in public was terribly humiliated.,Rel,Did the maid scratch in public?,Yes/No,g
+12,n1,The son of the princess who scratched himself in public was terribly humiliated.,Sup,Was anyone humiliated?,Yes,b
+12,n2,The son of the princess who scratched herself in public was terribly humiliated.,Sup,Was anyone humiliated?,Yes,e
+12,ambig,The maid of the princess who scratched herself in public was terribly humiliated.,Sup,Was anyone humiliated?,Yes,h
+13,ambig,The great-aunt of the policewoman who treated herself after the accident was watching the news.,Int,Was anyone listening to the radio?,No,c
+13,n1,The great-uncle of the policewoman who treated himself after the accident was watching the news.,Int,Was anyone listening to the radio?,No,f
+13,n2,The great-uncle of the policewoman who treated herself after the accident was watching the news.,Int,Was anyone listening to the radio?,No,i
+13,ambig,The great-aunt of the policewoman who treated herself after the accident was watching the news.,Rel,Did the great-aunt need treatment?,Yes/No,a
+13,n1,The great-uncle of the policewoman who treated himself after the accident was watching the news.,Rel,Did the policewoman need treatment?,No,d
+13,n2,The great-uncle of the policewoman who treated herself after the accident was watching the news.,Rel,Did the great-uncle need treatment?,No,g
+13,ambig,The great-aunt of the policewoman who treated herself after the accident was watching the news.,Sup,Was anyone listening to the radio?,No,b
+13,n1,The great-uncle of the policewoman who treated himself after the accident was watching the news.,Sup,Was anyone listening to the radio?,No,e
+13,n2,The great-uncle of the policewoman who treated herself after the accident was watching the news.,Sup,Was anyone listening to the radio?,No,h
+14,n2,The mother of the fisherman who killed himself last summer had lived in Wales.,Int,,Yes,c
+14,ambig,The father of the fisherman who killed himself last summer had lived in Wales.,Int,,Yes,f
+14,n1,The mother of the fisherman who killed herself last summer had lived in Wales.,Int,,Yes,i
+14,n2,The mother of the fisherman who killed himself last summer had lived in Wales.,Rel,Did the fisherman die last summer?,Yes,a
+14,ambig,The father of the fisherman who killed himself last summer had lived in Wales.,Rel,Did the father die last summer?,Yes/No,d
+14,n1,The mother of the fisherman who killed herself last summer had lived in Wales.,Rel,Did the mother die last summer?,Yes,g
+14,n2,The mother of the fisherman who killed himself last summer had lived in Wales.,Sup,Did someone live in Wales?,Yes,b
+14,ambig,The father of the fisherman who killed himself last summer had lived in Wales.,Sup,Did someone live in Wales?,Yes,e
+14,n1,The mother of the fisherman who killed herself last summer had lived in Wales.,Sup,Did someone live in Wales?,Yes,h
+15,n1,The brother of the milkmaid who cut himself on broken glass called for a doctor.,Int,,No,c
+15,n2,The brother of the milkmaid who cut herself on broken glass called for a doctor.,Int,,No,f
+15,ambig,The sister of the milkmaid who cut herself on the broken glass called for a doctor.,Int,,No,i
+15,n1,The brother of the milkmaid who cut himself on broken glass called for a doctor.,Rel,Did the milkmaid get cut on broken glass?,No,a
+15,n2,The brother of the milkmaid who cut herself on broken glass called for a doctor.,Rel,Did the brother get cut on broken glass?,No,d
+15,ambig,The sister of the milkmaid who cut herself on the broken glass called for a doctor.,Rel,Did the sister get cut on broken glass?,Yes/No,g
+15,n1,The brother of the milkmaid who cut himself on broken glass called for a doctor.,Sup,Did anyone call a lawyer?,No,b
+15,n2,The brother of the milkmaid who cut herself on broken glass called for a doctor.,Sup,Did anyone call a lawyer?,No,e
+15,ambig,The sister of the milkmaid who cut herself on the broken glass called for a doctor.,Sup,Did anyone call a lawyer?,No,h
+16,ambig,The uncle of the knight who sacrificed himself for the cause was the subject of the biography.,Int,,Yes,c
+16,n1,The aunt of the knight who sacrificed herself for the cause was the subject of the biography.,Int,,Yes,f
+16,n2,The aunt of the knight who sacrificed himself for the cause was the subject of the biography.,Int,,Yes,i
+16,ambig,The uncle of the knight who sacrificed himself for the cause was the subject of the biography.,Rel,Did the uncle sacrifice himself for the cause?,Yes/No,a
+16,n1,The aunt of the knight who sacrificed herself for the cause was the subject of the biography.,Rel,Did the aunt sacrifice herself for the cause?,Yes,d
+16,n2,The aunt of the knight who sacrificed himself for the cause was the subject of the biography.,Rel,Did the knight sacrifice himself for the cause?,Yes,g
+16,ambig,The uncle of the knight who sacrificed himself for the cause was the subject of the biography.,Sup,Was a biography written?,Yes,b
+16,n1,The aunt of the knight who sacrificed herself for the cause was the subject of the biography.,Sup,Was a biography written?,Yes,e
+16,n2,The aunt of the knight who sacrificed himself for the cause was the subject of the biography.,Sup,Was a biography written?,Yes,h
+17,n2,The grandfather of the heiress who bankrupted herself last year still made risky investments.,Int,,No,c
+17,ambig,The grandmother of the heiress who bankrupted herself last year still made risky investments.,Int,,No,f
+17,n1,The grandfather of the heiress who bankrupted himself last year still made risky investments.,Int,,No,i
+17,n2,The grandfather of the heiress who bankrupted herself last year still made risky investments.,Rel,Did the grandfather go bankrupt?,No,a
+17,ambig,The grandmother of the heiress who bankrupted herself last year still made risky investments.,Rel,Did the grandmother go bankrupt?,Yes/No,d
+17,n1,The grandfather of the heiress who bankrupted himself last year still made risky investments.,Rel,Did the heiress go bankrupt?,No,g
+17,n2,The grandfather of the heiress who bankrupted herself last year still made risky investments.,Sup,Did someone make cautious investments?,No,b
+17,ambig,The grandmother of the heiress who bankrupted herself last year still made risky investments.,Sup,Did someone make cautious investments?,No,e
+17,n1,The grandfather of the heiress who bankrupted himself last year still made risky investments.,Sup,Did someone make cautious investments?,No,h
+18,n1,The niece of the fisherman who drowned herself in the ocean didn't know about the tricky current.,Int,,Yes,c
+18,n2,The niece of the fisherman who drowned himself in the ocean didn't know about the tricky current.,Int,,Yes,f
+18,ambig,The nephew of the fisherman who drowned himself in the ocean didn't know about the tricky current.,Int,,Yes,i
+18,n1,The niece of the fisherman who drowned herself in the ocean didn't know about the tricky current.,Rel,Did the niece drown?,Yes,a
+18,n2,The niece of the fisherman who drowned himself in the ocean didn't know about the tricky current.,Rel,Did the fisherman drown?,Yes,d
+18,ambig,The nephew of the fisherman who drowned himself in the ocean didn't know about the tricky current.,Rel,Did the nephew drown?,Yes/No,g
+18,n1,The niece of the fisherman who drowned herself in the ocean didn't know about the tricky current.,Sup,Was someone unfamiliar with the current?,Yes,b
+18,n2,The niece of the fisherman who drowned himself in the ocean didn't know about the tricky current.,Sup,Was someone unfamiliar with the current?,Yes,e
+18,ambig,The nephew of the fisherman who drowned himself in the ocean didn't know about the tricky current.,Sup,Was someone unfamiliar with the current?,Yes,h
+19,ambig,The boyfriend of the councilman who hated himself for lying left town in a hurry.,Int,,No,c
+19,n1,The girlfriend of the councilman who hated herself for lying left town in a hurry.,Int,,No,f
+19,n2,The girlfriend of the councilman who hated himself for lying left town in a hurry.,Int,,No,i
+19,ambig,The boyfriend of the councilman who hated himself for lying left town in a hurry.,Rel,Was it the boyfriend who lied?,Yes/No,a
+19,n1,The girlfriend of the councilman who hated herself for lying left town in a hurry.,Rel,Was it the councilman who lied?,No,d
+19,n2,The girlfriend of the councilman who hated himself for lying left town in a hurry.,Rel,Was it the girlfriend who lied?,No,g
+19,ambig,The boyfriend of the councilman who hated himself for lying left town in a hurry.,Sup,Did anyone come to town in a hurry?,No,b
+19,n1,The girlfriend of the councilman who hated herself for lying left town in a hurry.,Sup,Did anyone come to town in a hurry?,No,e
+19,n2,The girlfriend of the councilman who hated himself for lying left town in a hurry.,Sup,Did anyone come to town in a hurry?,No,h
+20,n2,The sister of the count who injured himself by falling off a horse took a long time to get over it.,Int,,Yes,c
+20,ambig,The brother of the count who injured himself by falling off a horse took a long time to get over it.,Int,,Yes,f
+20,n1,The sister of the count who injured herself by falling off a horse took a long time to get over it.,Int,,Yes,i
+20,n2,The sister of the count who injured himself by falling off a horse took a long time to get over it.,Rel,Was it the count who was injured?,Yes,a
+20,ambig,The brother of the count who injured himself by falling off a horse took a long time to get over it.,Rel,Was it the brother who was injured?,Yes/No,d
+20,n1,The sister of the count who injured herself by falling off a horse took a long time to get over it.,Rel,Was it the sister who was injured?,Yes,g
+20,n2,The sister of the count who injured himself by falling off a horse took a long time to get over it.,Sup,Did anyone fall off a horse?,Yes,b
+20,ambig,The brother of the count who injured himself by falling off a horse took a long time to get over it.,Sup,Did anyone fall off a horse?,Yes,e
+20,n1,The sister of the count who injured herself by falling off a horse took a long time to get over it.,Sup,Did anyone fall off a horse?,Yes,h
+21,n1,The son of the lunchlady who educated himself at night loved going to the theatre.,Int,,No,c
+21,n2,The son of the lunchlady who educated herself at night loved going to the theatre.,Int,,No,f
+21,ambig,The daughter of the lunchlady who educated herself at night loved going to the theatre.,Int,,No,i
+21,n1,The son of the lunchlady who educated himself at night loved going to the theatre.,Rel,Was it the lunchlady who got educated at night?,No,a
+21,n2,The son of the lunchlady who educated herself at night loved going to the theatre.,Rel,Was it the son who got educated at night?,No,d
+21,ambig,The daughter of the lunchlady who educated herself at night loved going to the theatre.,Rel,Was it the daughter who got educated at night?,Yes/No,g
+21,n1,The son of the lunchlady who educated himself at night loved going to the theatre.,Sup,Did someone hate the theatre?,No,b
+21,n2,The son of the lunchlady who educated herself at night loved going to the theatre.,Sup,Did someone hate the theatre?,No,e
+21,ambig,The daughter of the lunchlady who educated herself at night loved going to the theatre.,Sup,Did someone hate the theatre?,No,h
+22,ambig,The niece of the congresswoman who calmed herself after the tragedy was waiting for the doctor.,Int,,Yes,c
+22,n1,The nephew of the congresswoman who calmed himself after the tragedy was waiting for the doctor.,Int,,Yes,f
+22,n2,The nephew of the congresswoman who calmed herself after the tragedy was waiting for the doctor.,Int,,Yes,i
+22,ambig,The niece of the congresswoman who calmed herself after the tragedy was waiting for the doctor.,Rel,Was it the niece who  calmed down?,Yes/No,a
+22,n1,The nephew of the congresswoman who calmed himself after the tragedy was waiting for the doctor.,Rel,Was it the nephew who calmed down?,Yes,d
+22,n2,The nephew of the congresswoman who calmed herself after the tragedy was waiting for the doctor.,Rel,Was it the congresswoman who calmed down?,Yes,g
+22,ambig,The niece of the congresswoman who calmed herself after the tragedy was waiting for the doctor.,Sup,Did anyone wait for a doctor?,Yes,b
+22,n1,The nephew of the congresswoman who calmed himself after the tragedy was waiting for the doctor.,Sup,Did anyone wait for a doctor?,Yes,e
+22,n2,The nephew of the congresswoman who calmed herself after the tragedy was waiting for the doctor.,Sup,Did anyone wait for a doctor?,Yes,h
+23,n2,The father of the ballerina who found herself in a lot of trouble phoned the police.,Int,,No,c
+23,ambig,The mother of the ballerina who found herself in a lot of trouble phoned the police.,Int,,No,f
+23,n1,The father of the ballerina who found himself in a lot of trouble phoned the police.,Int,,No,i
+23,n2,The father of the ballerina who found herself in a lot of trouble phoned the police.,Rel,Was it the father who was in trouble?,No,a
+23,ambig,The mother of the ballerina who found herself in a lot of trouble phoned the police.,Rel,Was it the mother who was in trouble?,Yes/No,d
+23,n1,The father of the ballerina who found himself in a lot of trouble phoned the police.,Rel,Was it the ballerina who was in trouble?,No,g
+23,n2,The father of the ballerina who found herself in a lot of trouble phoned the police.,Sup,Did anyone call the fire department?,No,b
+23,ambig,The mother of the ballerina who found herself in a lot of trouble phoned the police.,Sup,Did anyone call the fire department?,No,e
+23,n1,The father of the ballerina who found himself in a lot of trouble phoned the police.,Sup,Did anyone call the fire department?,No,h
+24,n1,The sister of the monk who drew attention to herself all the time hated small children.,Int,,Yes,c
+24,n2,The sister of the monk who drew attention to himself all the time hated small children.,Int,,Yes,f
+24,ambig,The brother of the monk who drew attention to himself all the time hated small children.,Int,,Yes,i
+24,n1,The sister of the monk who drew attention to herself all the time hated small children.,Rel,Was it the sister who drew attention?,Yes,a
+24,n2,The sister of the monk who drew attention to himself all the time hated small children.,Rel,Was it the monk who drew attention?,Yes,d
+24,ambig,The brother of the monk who drew attention to himself all the time hated small children.,Rel,Was it the brother who drew attention?,Yes/No,g
+24,n1,The sister of the monk who drew attention to herself all the time hated small children.,Sup,Did someone hate children?,Yes,b
+24,n2,The sister of the monk who drew attention to himself all the time hated small children.,Sup,Did someone hate children?,Yes,e
+24,ambig,The brother of the monk who drew attention to himself all the time hated small children.,Sup,Did someone hate children?,Yes,h
+25,ambig,The grandmother of the stewardess who treated herself to an ice-cream cone was waiting at home.,Int,,No,c
+25,n1,The grandfather of the stewardess who treated himself to an ice-cream cone was waiting at home.,Int,,No,f
+25,n2,The grandfather of the stewardess who treated herself to an ice-cream cone was waiting at home.,Int,,No,i
+25,ambig,The grandmother of the stewardess who treated herself to an ice-cream cone was waiting at home.,Rel,Was it the grandmother who ate ice cream?,Yes/No,a
+25,n1,The grandfather of the stewardess who treated himself to an ice-cream cone was waiting at home.,Rel,Was it the stewardess who ate ice cream?,No,d
+25,n2,The grandfather of the stewardess who treated herself to an ice-cream cone was waiting at home.,Rel,Was it the grandfather who ate ice cream?,No,g
+25,ambig,The grandmother of the stewardess who treated herself to an ice-cream cone was waiting at home.,Sup,Did anyone have cake?,No,b
+25,n1,The grandfather of the stewardess who treated himself to an ice-cream cone was waiting at home.,Sup,Did anyone have cake?,No,e
+25,n2,The grandfather of the stewardess who treated herself to an ice-cream cone was waiting at home.,Sup,Did anyone have cake?,No,h
+26,n2,The great-aunt of the bellboy who wrote himself a note admired sailors very much.,Int,Did anyone admire sailors?,Yes,c
+26,ambig,The great-uncle of the bellboy who wrote himself a note admired sailors very much.,Int,Did anyone admire sailors?,Yes,f
+26,n1,The great-aunt of the bellboy who wrote herself a note admired sailors very much.,Int,Did anyone admire sailors?,Yes,i
+26,n2,The great-aunt of the bellboy who wrote himself a note admired sailors very much.,Rel,Was it the bellboy who wrote the note?,Yes,a
+26,ambig,The great-uncle of the bellboy who wrote himself a note admired sailors very much.,Rel,Was it the great-uncle who wrote the note?,Yes/No,d
+26,n1,The great-aunt of the bellboy who wrote herself a note admired sailors very much.,Rel,Was it the great-aunt who wrote the note?,Yes,g
+26,n2,The great-aunt of the bellboy who wrote himself a note admired sailors very much.,Sup,Did anyone admire sailors?,Yes,b
+26,ambig,The great-uncle of the bellboy who wrote himself a note admired sailors very much.,Sup,Did anyone admire sailors?,Yes,e
+26,n1,The great-aunt of the bellboy who wrote herself a note admired sailors very much.,Sup,Did anyone admire sailors?,Yes,h
+27,n1,The grand-niece of the prince who invited herself to the party enjoyed it quite a bit.,Int,,No,c
+27,n2,The grand-niece of the prince who invited himself to the party enjoyed it quite a bit.,Int,,No,f
+27,ambig,The grand-nephew of the prince who invited himself to the party enjoyed it quite a bit.,Int,,No,i
+27,n1,The grand-niece of the prince who invited herself to the party enjoyed it quite a bit.,Rel,Was it the prince who invited himself?,No,a
+27,n2,The grand-niece of the prince who invited himself to the party enjoyed it quite a bit.,Rel,Was it the grand-niece who invited herself?,No,d
+27,ambig,The grand-nephew of the prince who invited himself to the party enjoyed it quite a bit.,Rel,Was it the grand-nephew who invited himself?,Yes/No,g
+27,n1,The grand-niece of the prince who invited herself to the party enjoyed it quite a bit.,Sup,Did someone have a horrible time?,No,b
+27,n2,The grand-niece of the prince who invited himself to the party enjoyed it quite a bit.,Sup,Did someone have a horrible time?,No,e
+27,ambig,The grand-nephew of the prince who invited himself to the party enjoyed it quite a bit.,Sup,Did someone have a horrible time?,No,h
+28,ambig,The sister of the baroness who admired herself an inordinate amount enjoyed all the attention.,Int,,Yes,c
+28,n1,The nephew of the baroness who admired himself an inordinate amount enjoyed all the attention.,Int,,Yes,f
+28,n2,The nephew of the baroness who admired herself an inordinate amount enjoyed all the attention.,Int,,Yes,i
+28,ambig,The sister of the baroness who admired herself an inordinate amount enjoyed all the attention.,Rel,Was it the sister who admired herself?,Yes/No,a
+28,n1,The nephew of the baroness who admired himself an inordinate amount enjoyed all the attention.,Rel,Was it the nephew who admired himself?,Yes,d
+28,n2,The nephew of the baroness who admired herself an inordinate amount enjoyed all the attention.,Rel,Was it the baroness who admired herself?,Yes,g
+28,ambig,The sister of the baroness who admired herself an inordinate amount enjoyed all the attention.,Sup,Did anyone enjoy the attention they received?,Yes,b
+28,n1,The nephew of the baroness who admired himself an inordinate amount enjoyed all the attention.,Sup,Did anyone enjoy the attention they received?,Yes,e
+28,n2,The nephew of the baroness who admired herself an inordinate amount enjoyed all the attention.,Sup,Did anyone enjoy the attention they received?,Yes,h
+29,n2,The sister of the king who enjoyed himself a lot was out on the balcony.,Int,,No,c
+29,ambig,The brother of the king who enjoyed himself a lot was out on the balcony.,Int,,No,f
+29,n1,The sister of the king who enjoyed herself a lot was out on the balcony.,Int,,No,i
+29,n2,The sister of the king who enjoyed himself a lot was out on the balcony.,Rel,Was it the sister who enjoyed herself?,No,a
+29,ambig,The brother of the king who enjoyed himself a lot was out on the balcony.,Rel,Was it the brother who enjoyed himself?,Yes/No,d
+29,n1,The sister of the king who enjoyed herself a lot was out on the balcony.,Rel,Was it the king who enjoyed himself?,No,g
+29,n2,The sister of the king who enjoyed himself a lot was out on the balcony.,Sup,Was anyone on the lawn?,No,b
+29,ambig,The brother of the king who enjoyed himself a lot was out on the balcony.,Sup,Was anyone on the lawn?,No,e
+29,n1,The sister of the king who enjoyed herself a lot was out on the balcony.,Sup,Was anyone on the lawn?,No,h
+30,n1,The nephew of the baroness who prepared himself very thoroughly came from the south.,Int,,Yes,c
+30,n2,The nephew of the baroness who prepared herself very thoroughly came from the south.,Int,,Yes,f
+30,ambig,The maid of the countess who prepared herself very thoroughly came from the south.,Int,,Yes,i
+30,n1,The nephew of the baroness who prepared himself very thoroughly came from the south.,Rel,Was it the nephew who was prepared?,Yes,a
+30,n2,The nephew of the baroness who prepared herself very thoroughly came from the south.,Rel,Was it the baroness who was prepared?,Yes,d
+30,ambig,The maid of the countess who prepared herself very thoroughly came from the south.,Rel,Was it the maid who was prepared?,Yes/No,g
+30,n1,The nephew of the baroness who prepared himself very thoroughly came from the south.,Sup,Was anyone from the south?,Yes,b
+30,n2,The nephew of the baroness who prepared herself very thoroughly came from the south.,Sup,Was anyone from the south?,Yes,e
+30,ambig,The maid of the countess who prepared herself very thoroughly came from the south.,Sup,Was anyone from the south?,Yes,h
+31,ambig,The uncle of the milkman who had to support himself with a low income liked to fish.,Int,,No,c
+31,n1,The aunt of the milkman who had to support herself with a low income liked to fish.,Int,,No,f
+31,n2,The aunt of the milkman who had to support himself with a low income liked to fish.,Int,,No,i
+31,ambig,The uncle of the milkman who had to support himself with a low income liked to fish.,Rel,Was it the uncle who was self-supportive?,Yes/No,a
+31,n1,The aunt of the milkman who had to support herself with a low income liked to fish.,Rel,Was it the milkman who was self-supportive?,No,d
+31,n2,The aunt of the milkman who had to support himself with a low income liked to fish.,Rel,Was it the aunt who was self-supportive?,No,g
+31,ambig,The uncle of the milkman who had to support himself with a low income liked to fish.,Sup,Did anyone have a high income?,No,b
+31,n1,The aunt of the milkman who had to support herself with a low income liked to fish.,Sup,Did anyone have a high income?,No,e
+31,n2,The aunt of the milkman who had to support himself with a low income liked to fish.,Sup,Did anyone have a high income?,No,h
+32,n2,The nephew of the duchess who looked at herself in the mirror wore a blue shirt.,Int,,Yes,c
+32,ambig,The niece of the duchess who looked at herself in the mirror wore a blue shirt.,Int,,Yes,f
+32,n1,The nephew of the duchess who looked at himself in the mirror wore a blue shirt.,Int,,Yes,i
+32,n2,The nephew of the duchess who looked at herself in the mirror wore a blue shirt.,Rel,Was it the duchess who looked in the mirror?,Yes,a
+32,ambig,The niece of the duchess who looked at herself in the mirror wore a blue shirt.,Rel,Was it the niece who looked in the mirror?,Yes/No,d
+32,n1,The nephew of the duchess who looked at himself in the mirror wore a blue shirt.,Rel,Was it the nephew who looked in the mirror?,Yes,g
+32,n2,The nephew of the duchess who looked at herself in the mirror wore a blue shirt.,Sup,Did anyone wear a blue shirt?,Yes,b
+32,ambig,The niece of the duchess who looked at herself in the mirror wore a blue shirt.,Sup,Did anyone wear a blue shirt?,Yes,e
+32,n1,The nephew of the duchess who looked at himself in the mirror wore a blue shirt.,Sup,Did anyone wear a blue shirt?,Yes,h
+33,n1,The maid of the duke who did not like herself very much caught the armed robber.,Int,,No,c
+33,n2,The maid of the duke who did not like himself very much caught the armed robber.,Int,,No,f
+33,ambig,The butler of the duke who did not like himself very much caught the armed robber.,Int,,No,i
+33,n1,The maid of the duke who did not like herself very much caught the armed robber.,Rel,Was it the duke who didn't like himself?,No,a
+33,n2,The maid of the duke who did not like himself very much caught the armed robber.,Rel,Was it the maid who didn't like herself?,No,d
+33,ambig,The butler of the duke who did not like himself very much caught the armed robber.,Rel,Was it the butler who didn't like himself?,Yes/No,g
+33,n1,The maid of the duke who did not like herself very much caught the armed robber.,Sup,Was the robber unarmed?,No,b
+33,n2,The maid of the duke who did not like himself very much caught the armed robber.,Sup,Was the robber unarmed?,No,e
+33,ambig,The butler of the duke who did not like himself very much caught the armed robber.,Sup,Was the robber unarmed?,No,h
+34,ambig,The waitress of the woman who considered herself a natural beauty spilled the drinks.,Int,,Yes,c
+34,n1,The waiter of the woman who considered himself a natural beauty spilled the drinks.,Int,,Yes,f
+34,n2,The waiter of the woman who considered herself a natural beauty spilled the drinks.,Int,,Yes,i
+34,ambig,The waitress of the woman who considered herself a natural beauty spilled the drinks.,Rel,Was it the waitress who was conceited?,Yes/No,a
+34,n1,The waiter of the woman who considered himself a natural beauty spilled the drinks.,Rel,Was it the waiter who was conceited?,Yes,d
+34,n2,The waiter of the woman who considered herself a natural beauty spilled the drinks.,Rel,Was it the woman who was conceited?,Yes,g
+34,ambig,The waitress of the woman who considered herself a natural beauty spilled the drinks.,Sup,Did anyone spill something?,Yes,b
+34,n1,The waiter of the woman who considered himself a natural beauty spilled the drinks.,Sup,Did anyone spill something?,Yes,e
+34,n2,The waiter of the woman who considered herself a natural beauty spilled the drinks.,Sup,Did anyone spill something?,Yes,h
+35,n2,The landlady of the businessman who had locked himself in the office received a phone call.,Int,,No,c
+35,ambig,The landlord of the businessman who had locked himself in the office received a phone call.,Int,,No,f
+35,n1,The landlady of the businessman who had locked herself in the office received a phone call.,Int,,No,i
+35,n2,The landlady of the businessman who had locked himself in the office received a phone call.,Rel,Was it the landlady who was locked up?,No,a
+35,ambig,The landlord of the businessman who had locked himself in the office received a phone call.,Rel,Was it the landlord who was locked up?,Yes/No,d
+35,n1,The landlady of the businessman who had locked herself in the office received a phone call.,Rel,Was it the businessman who was locked up?,No,g
+35,n2,The landlady of the businessman who had locked himself in the office received a phone call.,Sup,Did anyone dial the phone?,No,b
+35,ambig,The landlord of the businessman who had locked himself in the office received a phone call.,Sup,Did anyone dial the phone?,No,e
+35,n1,The landlady of the businessman who had locked herself in the office received a phone call.,Sup,Did anyone dial the phone?,No,h
+36,n1,The son of the saleswoman who talked to himself all the time walked into the room.,Int,Did anyone enter the room?,Yes,c
+36,n2,The son of the saleswoman who talked to herself all the time walked into the room.,Int,Did anyone enter the room?,Yes,f
+36,ambig,The daughter of the saleswoman who talked to herself all the time walked into  the room.,Int,Did anyone enter the room?,Yes,i
+36,n1,The son of the saleswoman who talked to himself all the time walked into the room.,Rel,Was it the son who talked to himself?,Yes,a
+36,n2,The son of the saleswoman who talked to herself all the time walked into the room.,Rel,Was it the saleswoman who talked to herself?,Yes,d
+36,ambig,The daughter of the saleswoman who talked to herself all the time walked into  the room.,Rel,Was it the daughter who talked to herself?,Yes/No,g
+36,n1,The son of the saleswoman who talked to himself all the time walked into the room.,Sup,Did anyone enter the room?,Yes,b
+36,n2,The son of the saleswoman who talked to herself all the time walked into the room.,Sup,Did anyone enter the room?,Yes,e
+36,ambig,The daughter of the saleswoman who talked to herself all the time walked into  the room.,Sup,Did anyone enter the room?,Yes,h

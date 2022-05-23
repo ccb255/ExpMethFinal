@@ -1,0 +1,325 @@
+item,sentence,question,answer,group
+1,The actress's cousin who owned seventeen dogs vacationed in Italy for a month.,Did someone go to the hospital?,No,c
+2,The movie critic whose sister lived in Rome hated the movie about the lonely heiress.,,Yes,c
+3,The governess who looked after the children at the party was exhausted by the end of the night.,,No,c
+4,The mother of the bride cried as she watched her husband and daughter dance at the wedding.,,Yes,c
+5,The captain of the hockey team baked them a pie after they won the championship.,,No,c
+6,The cousin of the pianist watched her performance from the front row.,,Yes,c
+7,The flight attendant asked the brother of the president to fasten his seatbelt after the sign lit up.,,No,c
+8,The childhood friend of the former empress reached out to her after she relinquished the throne.,,Yes,c
+9,The king of the small country always carried his favorite dagger on the right side of his belt.,,No,c
+10,The brother of the priest thought he would be forgiven for taking money from the collection bin.,,Yes,c
+11,The state elected a new congressman whose sister was their congresswoman the previous year.,,No,c
+12,The nephew of the princess sneezed during the ceremony and was terribly embarrassed.,,Yes,c
+13,The policewoman's grandfather retired from the police force before she joined it.,Did someone retire from the army?,No,c
+14,The wife of the fisherman always knitted him a new sweater before the weather got cold.,,Yes,c
+15,The mother of the queen's lady-in-waiting was arrested for stealing silverware from the castle.,,No,c
+16,The squire of the knight was the only person who could calm the knight's horse when it was upset.,,Yes,c
+17,The heiress's grandmother won the lottery and invested her winnings wisely.,,No,c
+18,The nephew of the hunter knew that there were no wolves left in the eastern part of the forest.,,Yes,c
+19,The roommate of the artist was scolded for using expensive paint without permission.,,No,c
+20,The singer's cousin called the son of the guitarist a genius for fixing the malfunctioning speaker.,,Yes,c
+21,The principal of the school never complained about the secretaries because they knew how to keep the printers working.,,No,c
+22,The student of the magician disappeared during a trick and was never seen again.,,Yes,c
+23,The brother of the ice skater decided to open a skating rink so more people could try the sport.,,No,c
+24,The great-aunt of the teacher always planned hiking trips for the two of them during the summer.,,Yes,c
+25,The newest cellist of the orchestra misplaced some sheet music and was embarrassed to ask for extra copies.,,No,c
+26,The lead actor of the hit movie was embroiled in an embarrassing scandal just before the award show.,Was there a scandal?,Yes,c
+27,The best friend of the prince memorized the guards' names because it was the polite thing to do.,,No,c
+28,The sister of the duchess always appreciated the fancy jewelery that she received on her birthday.,,Yes,c
+29,The brother of the queen spent most of the night in the garden because he hated parties.,,No,c
+30,The father of the schoolgirl bought her a cake when she earned an award for her essay.,,Yes,c
+31,The manager of the grocery store accidentally ordered too many frozen tater tots and had to discount them.,,No,c
+32,The nephew of the duke bought a fancy red sportscar and got a ticket for speeding.,,Yes,c
+33,The favorite cafe of the professor donated all of their profits earned on Wednesdays to charity.,,No,c
+34,The lawyer of the mayor had to retake the Bar Exam three times before passing.,,Yes,c
+35,The head gardener of the amusement park loved to hide painted rocks in the greenery near the rest areas.,,No,c
+36,The aunt of the gambler was confused about why the money she loaned was never repaid.,Was someone confused?,Yes,c
+1,The actress's cousin who owned seventeen dogs vacationed in Italy for a month.,Did someone go to the hospital?,No,f
+2,The movie critic whose sister lived in Rome hated the movie about the lonely heiress.,,Yes,f
+3,The governess who looked after the children at the party was exhausted by the end of the night.,,No,f
+4,The mother of the bride cried as she watched her husband and daughter dance at the wedding.,,Yes,f
+5,The captain of the hockey team baked them a pie after they won the championship.,,No,f
+6,The cousin of the pianist watched her performance from the front row.,,Yes,f
+7,The flight attendant asked the brother of the president to fasten his seatbelt after the sign lit up.,,No,f
+8,The childhood friend of the former empress reached out to her after she relinquished the throne.,,Yes,f
+9,The king of the small country always carried his favorite dagger on the right side of his belt.,,No,f
+10,The brother of the priest thought he would be forgiven for taking money from the collection bin.,,Yes,f
+11,The state elected a new congressman whose sister was their congresswoman the previous year.,,No,f
+12,The nephew of the princess sneezed during the ceremony and was terribly embarrassed.,,Yes,f
+13,The policewoman's grandfather retired from the police force before she joined it.,Did someone retire from the army?,No,f
+14,The wife of the fisherman always knitted him a new sweater before the weather got cold.,,Yes,f
+15,The mother of the queen's lady-in-waiting was arrested for stealing silverware from the castle.,,No,f
+16,The squire of the knight was the only person who could calm the knight's horse when it was upset.,,Yes,f
+17,The heiress's grandmother won the lottery and invested her winnings wisely.,,No,f
+18,The nephew of the hunter knew that there were no wolves left in the eastern part of the forest.,,Yes,f
+19,The roommate of the artist was scolded for using expensive paint without permission.,,No,f
+20,The singer's cousin called the son of the guitarist a genius for fixing the malfunctioning speaker.,,Yes,f
+21,The principal of the school never complained about the secretaries because they knew how to keep the printers working.,,No,f
+22,The student of the magician disappeared during a trick and was never seen again.,,Yes,f
+23,The brother of the ice skater decided to open a skating rink so more people could try the sport.,,No,f
+24,The great-aunt of the teacher always planned hiking trips for the two of them during the summer.,,Yes,f
+25,The newest cellist of the orchestra misplaced some sheet music and was embarrassed to ask for extra copies.,,No,f
+26,The lead actor of the hit movie was embroiled in an embarrassing scandal just before the award show.,Was there a scandal?,Yes,f
+27,The best friend of the prince memorized the guards' names because it was the polite thing to do.,,No,f
+28,The sister of the duchess always appreciated the fancy jewelery that she received on her birthday.,,Yes,f
+29,The brother of the queen spent most of the night in the garden because he hated parties.,,No,f
+30,The father of the schoolgirl bought her a cake when she earned an award for her essay.,,Yes,f
+31,The manager of the grocery store accidentally ordered too many frozen tater tots and had to discount them.,,No,f
+32,The nephew of the duke bought a fancy red sportscar and got a ticket for speeding.,,Yes,f
+33,The favorite cafe of the professor donated all of their profits earned on Wednesdays to charity.,,No,f
+34,The lawyer of the mayor had to retake the Bar Exam three times before passing.,,Yes,f
+35,The head gardener of the amusement park loved to hide painted rocks in the greenery near the rest areas.,,No,f
+36,The aunt of the gambler was confused about why the money she loaned was never repaid.,Was someone confused?,Yes,f
+1,The actress's cousin who owned seventeen dogs vacationed in Italy for a month.,Did someone go to the hospital?,No,i
+2,The movie critic whose sister lived in Rome hated the movie about the lonely heiress.,,Yes,i
+3,The governess who looked after the children at the party was exhausted by the end of the night.,,No,i
+4,The mother of the bride cried as she watched her husband and daughter dance at the wedding.,,Yes,i
+5,The captain of the hockey team baked them a pie after they won the championship.,,No,i
+6,The cousin of the pianist watched her performance from the front row.,,Yes,i
+7,The flight attendant asked the brother of the president to fasten his seatbelt after the sign lit up.,,No,i
+8,The childhood friend of the former empress reached out to her after she relinquished the throne.,,Yes,i
+9,The king of the small country always carried his favorite dagger on the right side of his belt.,,No,i
+10,The brother of the priest thought he would be forgiven for taking money from the collection bin.,,Yes,i
+11,The state elected a new congressman whose sister was their congresswoman the previous year.,,No,i
+12,The nephew of the princess sneezed during the ceremony and was terribly embarrassed.,,Yes,i
+13,The policewoman's grandfather retired from the police force before she joined it.,Did someone retire from the army?,No,i
+14,The wife of the fisherman always knitted him a new sweater before the weather got cold.,,Yes,i
+15,The mother of the queen's lady-in-waiting was arrested for stealing silverware from the castle.,,No,i
+16,The squire of the knight was the only person who could calm the knight's horse when it was upset.,,Yes,i
+17,The heiress's grandmother won the lottery and invested her winnings wisely.,,No,i
+18,The nephew of the hunter knew that there were no wolves left in the eastern part of the forest.,,Yes,i
+19,The roommate of the artist was scolded for using expensive paint without permission.,,No,i
+20,The singer's cousin called the son of the guitarist a genius for fixing the malfunctioning speaker.,,Yes,i
+21,The principal of the school never complained about the secretaries because they knew how to keep the printers working.,,No,i
+22,The student of the magician disappeared during a trick and was never seen again.,,Yes,i
+23,The brother of the ice skater decided to open a skating rink so more people could try the sport.,,No,i
+24,The great-aunt of the teacher always planned hiking trips for the two of them during the summer.,,Yes,i
+25,The newest cellist of the orchestra misplaced some sheet music and was embarrassed to ask for extra copies.,,No,i
+26,The lead actor of the hit movie was embroiled in an embarrassing scandal just before the award show.,Was there a scandal?,Yes,i
+27,The best friend of the prince memorized the guards' names because it was the polite thing to do.,,No,i
+28,The sister of the duchess always appreciated the fancy jewelery that she received on her birthday.,,Yes,i
+29,The brother of the queen spent most of the night in the garden because he hated parties.,,No,i
+30,The father of the schoolgirl bought her a cake when she earned an award for her essay.,,Yes,i
+31,The manager of the grocery store accidentally ordered too many frozen tater tots and had to discount them.,,No,i
+32,The nephew of the duke bought a fancy red sportscar and got a ticket for speeding.,,Yes,i
+33,The favorite cafe of the professor donated all of their profits earned on Wednesdays to charity.,,No,i
+34,The lawyer of the mayor had to retake the Bar Exam three times before passing.,,Yes,i
+35,The head gardener of the amusement park loved to hide painted rocks in the greenery near the rest areas.,,No,i
+36,The aunt of the gambler was confused about why the money she loaned was never repaid.,Was someone confused?,Yes,i
+1,The actress's cousin who owned seventeen dogs vacationed in Italy for a month.,Did the cousin go to Spain?,No,a
+2,The movie critic whose sister lived in Rome hated the movie about the lonely heiress.,Did the sister live in Rome?,Yes,a
+3,The governess who looked after the children at the party was exhausted by the end of the night.,Was the governess energized by the party?,No,a
+4,The mother of the bride cried as she watched her husband and daughter dance at the wedding.,Did the mother cry?,Yes,a
+5,The captain of the hockey team baked them a pie after they won the championship.,Did the captain bake a cake?,No,a
+6,The cousin of the pianist watched her performance from the front row.,Did anyone sit in front of the cousin?,Yes,a
+7,The flight attendant asked the brother of the president to fasten his seatbelt after the sign lit up.,Did the sign turn off?,No,a
+8,The childhood friend of the former empress reached out to her after she relinquished the throne.,Did the childhood friend contact the empress?,Yes,a
+9,The king of the small country always carried his favorite dagger on the right side of his belt.,Did the king carry the dagger on his left side?,No,a
+10,The brother of the priest thought he would be forgiven for taking money from the collection bin.,Did the brother steal money?,Yes,a
+11,The state elected a new congressman whose sister was their congresswoman the previous year.,Is the sister uninterested in politics?,No,a
+12,The nephew of the princess sneezed during the ceremony and was terribly embarrassed.,Did the nephew sneeze?,Yes,a
+13,The policewoman's grandfather retired from the police force before she joined it.,Did the policewoman and her grandfather work together?,No,a
+14,The wife of the fisherman always knitted him a new sweater before the weather got cold.,Did the wife know how to knit?,Yes,a
+15,The mother of the queen's lady-in-waiting was arrested for stealing silverware from the castle.,Did the mother steal from the church?,No,a
+16,The squire of the knight was the only person who could calm the knight's horse when it was upset.,Was the knight's horse difficult to calm?,Yes,a
+17,The heiress's grandmother won the lottery and invested her winnings wisely.,Did the heiress invest money?,No,a
+18,The nephew of the hunter knew that there were no wolves left in the eastern part of the forest.,Was the eastern forest safe from wolves?,Yes,a
+19,The roommate of the artist was scolded for using expensive paint without permission.,Did the artist give permission?,No,a
+20,The singer's cousin called the son of the guitarist a genius for fixing the malfunctioning speaker.,Did the son repair the speaker?,Yes,a
+21,The principal of the school never complained about the secretaries because they knew how to keep the printers working.,Did the secretaries break the printers?,No,a
+22,The student of the magician disappeared during a trick and was never seen again.,Was it the student who went missing?,Yes,a
+23,The brother of the ice skater decided to open a skating rink so more people could try the sport.,Did the brother want to keep the sport exclusive?,No,a
+24,The great-aunt of the teacher always planned hiking trips for the two of them during the summer.,Did the great-aunt plan summer trips?,Yes,a
+25,The newest cellist of the orchestra misplaced some sheet music and was embarrassed to ask for extra copies.,Did the cellist find sheet music?,No,a
+26,The lead actor of the hit movie was embroiled in an embarrassing scandal just before the award show.,Was the lead actor involved in a scandal?,Yes,a
+27,The best friend of the prince memorized the guards' names because it was the polite thing to do.,Did the friend forget the guards' names?,No,a
+28,The sister of the duchess always appreciated the fancy jewelery that she received on her birthday.,Was the jewelry a birthday gift?,Yes,a
+29,The brother of the queen spent most of the night in the garden because he hated parties.,Did the brother stay in the ballroom?,No,a
+30,The father of the schoolgirl bought her a cake when she earned an award for her essay.,Did the father buy a cake for his daughter?,Yes,a
+31,The manager of the grocery store accidentally ordered too many frozen tater tots and had to discount them.,Did the manager order too little of something?,No,a
+32,The nephew of the duke bought a fancy red sportscar and got a ticket for speeding.,Was the nephew's sportscar red?,Yes,a
+33,The favorite cafe of the professor donated all of their profits earned on Wednesdays to charity.,Did the cafe donate profits earned on Fridays?,No,a
+34,The lawyer of the mayor had to retake the Bar Exam three times before passing.,Did the lawyer attempt the exam more than twice?,Yes,a
+35,The head gardener of the amusement park loved to hide painted rocks in the greenery near the rest areas.,Did the gardener work at a university?,No,a
+36,The aunt of the gambler was confused about why the money she loaned was never repaid.,Did the aunt loan money?,Yes,a
+1,The actress's cousin who owned seventeen dogs vacationed in Italy for a month.,Did the cousin go to Spain?,No,d
+2,The movie critic whose sister lived in Rome hated the movie about the lonely heiress.,Did the sister live in Rome?,Yes,d
+3,The governess who looked after the children at the party was exhausted by the end of the night.,Was the governess energized by the party?,No,d
+4,The mother of the bride cried as she watched her husband and daughter dance at the wedding.,Did the mother cry?,Yes,d
+5,The captain of the hockey team baked them a pie after they won the championship.,Did the captain bake a cake?,No,d
+6,The cousin of the pianist watched her performance from the front row.,Did anyone sit in front of the cousin?,Yes,d
+7,The flight attendant asked the brother of the president to fasten his seatbelt after the sign lit up.,Did the sign turn off?,No,d
+8,The childhood friend of the former empress reached out to her after she relinquished the throne.,Did the childhood friend contact the empress?,Yes,d
+9,The king of the small country always carried his favorite dagger on the right side of his belt.,Did the king carry the dagger on his left side?,No,d
+10,The brother of the priest thought he would be forgiven for taking money from the collection bin.,Did the brother steal money?,Yes,d
+11,The state elected a new congressman whose sister was their congresswoman the previous year.,Is the sister uninterested in politics?,No,d
+12,The nephew of the princess sneezed during the ceremony and was terribly embarrassed.,Did the nephew sneeze?,Yes,d
+13,The policewoman's grandfather retired from the police force before she joined it.,Did the policewoman and her grandfather work together?,No,d
+14,The wife of the fisherman always knitted him a new sweater before the weather got cold.,Did the wife know how to knit?,Yes,d
+15,The mother of the queen's lady-in-waiting was arrested for stealing silverware from the castle.,Did the mother steal from the church?,No,d
+16,The squire of the knight was the only person who could calm the knight's horse when it was upset.,Was the knight's horse difficult to calm?,Yes,d
+17,The heiress's grandmother won the lottery and invested her winnings wisely.,Did the heiress invest money?,No,d
+18,The nephew of the hunter knew that there were no wolves left in the eastern part of the forest.,Was the eastern forest safe from wolves?,Yes,d
+19,The roommate of the artist was scolded for using expensive paint without permission.,Did the artist give permission?,No,d
+20,The singer's cousin called the son of the guitarist a genius for fixing the malfunctioning speaker.,Did the son repair the speaker?,Yes,d
+21,The principal of the school never complained about the secretaries because they knew how to keep the printers working.,Did the secretaries break the printers?,No,d
+22,The student of the magician disappeared during a trick and was never seen again.,Was it the student who went missing?,Yes,d
+23,The brother of the ice skater decided to open a skating rink so more people could try the sport.,Did the brother want to keep the sport exclusive?,No,d
+24,The great-aunt of the teacher always planned hiking trips for the two of them during the summer.,Did the great-aunt plan summer trips?,Yes,d
+25,The newest cellist of the orchestra misplaced some sheet music and was embarrassed to ask for extra copies.,Did the cellist find sheet music?,No,d
+26,The lead actor of the hit movie was embroiled in an embarrassing scandal just before the award show.,Was the lead actor involved in a scandal?,Yes,d
+27,The best friend of the prince memorized the guards' names because it was the polite thing to do.,Did the friend forget the guards' names?,No,d
+28,The sister of the duchess always appreciated the fancy jewelery that she received on her birthday.,Was the jewelry a birthday gift?,Yes,d
+29,The brother of the queen spent most of the night in the garden because he hated parties.,Did the brother stay in the ballroom?,No,d
+30,The father of the schoolgirl bought her a cake when she earned an award for her essay.,Did the father buy a cake for his daughter?,Yes,d
+31,The manager of the grocery store accidentally ordered too many frozen tater tots and had to discount them.,Did the manager order too little of something?,No,d
+32,The nephew of the duke bought a fancy red sportscar and got a ticket for speeding.,Was the nephew's sportscar red?,Yes,d
+33,The favorite cafe of the professor donated all of their profits earned on Wednesdays to charity.,Did the cafe donate profits earned on Fridays?,No,d
+34,The lawyer of the mayor had to retake the Bar Exam three times before passing.,Did the lawyer attempt the exam more than twice?,Yes,d
+35,The head gardener of the amusement park loved to hide painted rocks in the greenery near the rest areas.,Did the gardener work at a university?,No,d
+36,The aunt of the gambler was confused about why the money she loaned was never repaid.,Did the aunt loan money?,Yes,d
+1,The actress's cousin who owned seventeen dogs vacationed in Italy for a month.,Did the cousin go to Spain?,No,g
+2,The movie critic whose sister lived in Rome hated the movie about the lonely heiress.,Did the sister live in Rome?,Yes,g
+3,The governess who looked after the children at the party was exhausted by the end of the night.,Was the governess energized by the party?,No,g
+4,The mother of the bride cried as she watched her husband and daughter dance at the wedding.,Did the mother cry?,Yes,g
+5,The captain of the hockey team baked them a pie after they won the championship.,Did the captain bake a cake?,No,g
+6,The cousin of the pianist watched her performance from the front row.,Did anyone sit in front of the cousin?,Yes,g
+7,The flight attendant asked the brother of the president to fasten his seatbelt after the sign lit up.,Did the sign turn off?,No,g
+8,The childhood friend of the former empress reached out to her after she relinquished the throne.,Did the childhood friend contact the empress?,Yes,g
+9,The king of the small country always carried his favorite dagger on the right side of his belt.,Did the king carry the dagger on his left side?,No,g
+10,The brother of the priest thought he would be forgiven for taking money from the collection bin.,Did the brother steal money?,Yes,g
+11,The state elected a new congressman whose sister was their congresswoman the previous year.,Is the sister uninterested in politics?,No,g
+12,The nephew of the princess sneezed during the ceremony and was terribly embarrassed.,Did the nephew sneeze?,Yes,g
+13,The policewoman's grandfather retired from the police force before she joined it.,Did the policewoman and her grandfather work together?,No,g
+14,The wife of the fisherman always knitted him a new sweater before the weather got cold.,Did the wife know how to knit?,Yes,g
+15,The mother of the queen's lady-in-waiting was arrested for stealing silverware from the castle.,Did the mother steal from the church?,No,g
+16,The squire of the knight was the only person who could calm the knight's horse when it was upset.,Was the knight's horse difficult to calm?,Yes,g
+17,The heiress's grandmother won the lottery and invested her winnings wisely.,Did the heiress invest money?,No,g
+18,The nephew of the hunter knew that there were no wolves left in the eastern part of the forest.,Was the eastern forest safe from wolves?,Yes,g
+19,The roommate of the artist was scolded for using expensive paint without permission.,Did the artist give permission?,No,g
+20,The singer's cousin called the son of the guitarist a genius for fixing the malfunctioning speaker.,Did the son repair the speaker?,Yes,g
+21,The principal of the school never complained about the secretaries because they knew how to keep the printers working.,Did the secretaries break the printers?,No,g
+22,The student of the magician disappeared during a trick and was never seen again.,Was it the student who went missing?,Yes,g
+23,The brother of the ice skater decided to open a skating rink so more people could try the sport.,Did the brother want to keep the sport exclusive?,No,g
+24,The great-aunt of the teacher always planned hiking trips for the two of them during the summer.,Did the great-aunt plan summer trips?,Yes,g
+25,The newest cellist of the orchestra misplaced some sheet music and was embarrassed to ask for extra copies.,Did the cellist find sheet music?,No,g
+26,The lead actor of the hit movie was embroiled in an embarrassing scandal just before the award show.,Was the lead actor involved in a scandal?,Yes,g
+27,The best friend of the prince memorized the guards' names because it was the polite thing to do.,Did the friend forget the guards' names?,No,g
+28,The sister of the duchess always appreciated the fancy jewelery that she received on her birthday.,Was the jewelry a birthday gift?,Yes,g
+29,The brother of the queen spent most of the night in the garden because he hated parties.,Did the brother stay in the ballroom?,No,g
+30,The father of the schoolgirl bought her a cake when she earned an award for her essay.,Did the father buy a cake for his daughter?,Yes,g
+31,The manager of the grocery store accidentally ordered too many frozen tater tots and had to discount them.,Did the manager order too little of something?,No,g
+32,The nephew of the duke bought a fancy red sportscar and got a ticket for speeding.,Was the nephew's sportscar red?,Yes,g
+33,The favorite cafe of the professor donated all of their profits earned on Wednesdays to charity.,Did the cafe donate profits earned on Fridays?,No,g
+34,The lawyer of the mayor had to retake the Bar Exam three times before passing.,Did the lawyer attempt the exam more than twice?,Yes,g
+35,The head gardener of the amusement park loved to hide painted rocks in the greenery near the rest areas.,Did the gardener work at a university?,No,g
+36,The aunt of the gambler was confused about why the money she loaned was never repaid.,Did the aunt loan money?,Yes,g
+1,The actress's cousin who owned seventeen dogs vacationed in Italy for a month.,Did someone go to the hospital?,No,b
+2,The movie critic whose sister lived in Rome hated the movie about the lonely heiress.,Did someone hate the movie?,Yes,b
+3,The governess who looked after the children at the party was exhausted by the end of the night.,Was someone looking after dogs?,No,b
+4,The mother of the bride cried as she watched her husband and daughter dance at the wedding.,Was there a wedding?,Yes,b
+5,The captain of the hockey team baked them a pie after they won the championship.,Did someone lose something?,No,b
+6,The cousin of the pianist watched her performance from the front row.,Did someone perform?,Yes,b
+7,The flight attendant asked the brother of the president to fasten his seatbelt after the sign lit up.,Did the brother ask for something?,No,b
+8,The childhood friend of the former empress reached out to her after she relinquished the throne.,Did someone give up their position?,Yes,b
+9,The king of the small country always carried his favorite dagger on the right side of his belt.,Did someone have a sword?,No,b
+10,The brother of the priest thought he would be forgiven for taking money from the collection bin.,Was there a collection bin?,Yes,b
+11,The state elected a new congressman whose sister was their congresswoman the previous year.,Was anyone impeached?,No,b
+12,The nephew of the princess sneezed during the ceremony and was terribly embarrassed.,Was anyone embarrassed?,Yes,b
+13,The policewoman's grandfather retired from the police force before she joined it.,Did someone retire from the army?,No,b
+14,The wife of the fisherman always knitted him a new sweater before the weather got cold.,Did someone make a sweater?,Yes,b
+15,The mother of the queen's lady-in-waiting was arrested for stealing silverware from the castle.,Was someone rewarded?,No,b
+16,The squire of the knight was the only person who could calm the knight's horse when it was upset.,Did knight have a horse?,Yes,b
+17,The heiress's grandmother won the lottery and invested her winnings wisely.,Did someone win a trophy?,No,b
+18,The nephew of the hunter knew that there were no wolves left in the eastern part of the forest.,Did someone know something about the forest?,Yes,b
+19,The roommate of the artist was scolded for using expensive paint without permission.,Was someone complimented?,No,b
+20,The singer's cousin called the son of the guitarist a genius for fixing the malfunctioning speaker.,Was something malfunctioning?,Yes,b
+21,The principal of the school never complained about the secretaries because they knew how to keep the printers working.,Did someone complain?,No,b
+22,The student of the magician disappeared during a trick and was never seen again.,Did someone disappear?,Yes,b
+23,The brother of the ice skater decided to open a skating rink so more people could try the sport.,Did someone close a skating rink?,No,b
+24,The great-aunt of the teacher always planned hiking trips for the two of them during the summer.,Did someone plan a trip?,Yes,b
+25,The newest cellist of the orchestra misplaced some sheet music and was embarrassed to ask for extra copies.,Was someone proud?,No,b
+26,The lead actor of the hit movie was embroiled in an embarrassing scandal just before the award show.,Was there a scandal?,Yes,b
+27,The best friend of the prince memorized the guards' names because it was the polite thing to do.,Did someone forget something?,No,b
+28,The sister of the duchess always appreciated the fancy jewelery that she received on her birthday.,Did someone appreciate something?,Yes,b
+29,The brother of the queen spent most of the night in the garden because he hated parties.,Did someone love parties?,No,b
+30,The father of the schoolgirl bought her a cake when she earned an award for her essay.,Was there a cake?,Yes,b
+31,The manager of the grocery store accidentally ordered too many frozen tater tots and had to discount them.,Did someone raise prices?,No,b
+32,The nephew of the duke bought a fancy red sportscar and got a ticket for speeding.,Did someone get a car?,Yes,b
+33,The favorite cafe of the professor donated all of their profits earned on Wednesdays to charity.,Were profits kept by the cafe?,No,b
+34,The lawyer of the mayor had to retake the Bar Exam three times before passing.,Did someone retake an exam?,Yes,b
+35,The head gardener of the amusement park loved to hide painted rocks in the greenery near the rest areas.,Did someone hide toys?,No,b
+36,The aunt of the gambler was confused about why the money she loaned was never repaid.,Was someone confused?,Yes,b
+1,The actress's cousin who owned seventeen dogs vacationed in Italy for a month.,Did someone go to the hospital?,No,e
+2,The movie critic whose sister lived in Rome hated the movie about the lonely heiress.,Did someone hate the movie?,Yes,e
+3,The governess who looked after the children at the party was exhausted by the end of the night.,Was someone looking after dogs?,No,e
+4,The mother of the bride cried as she watched her husband and daughter dance at the wedding.,Was there a wedding?,Yes,e
+5,The captain of the hockey team baked them a pie after they won the championship.,Did someone lose something?,No,e
+6,The cousin of the pianist watched her performance from the front row.,Did someone perform?,Yes,e
+7,The flight attendant asked the brother of the president to fasten his seatbelt after the sign lit up.,Did the brother ask for something?,No,e
+8,The childhood friend of the former empress reached out to her after she relinquished the throne.,Did someone give up their position?,Yes,e
+9,The king of the small country always carried his favorite dagger on the right side of his belt.,Did someone have a sword?,No,e
+10,The brother of the priest thought he would be forgiven for taking money from the collection bin.,Was there a collection bin?,Yes,e
+11,The state elected a new congressman whose sister was their congresswoman the previous year.,Was anyone impeached?,No,e
+12,The nephew of the princess sneezed during the ceremony and was terribly embarrassed.,Was anyone embarrassed?,Yes,e
+13,The policewoman's grandfather retired from the police force before she joined it.,Did someone retire from the army?,No,e
+14,The wife of the fisherman always knitted him a new sweater before the weather got cold.,Did someone make a sweater?,Yes,e
+15,The mother of the queen's lady-in-waiting was arrested for stealing silverware from the castle.,Was someone rewarded?,No,e
+16,The squire of the knight was the only person who could calm the knight's horse when it was upset.,Did knight have a horse?,Yes,e
+17,The heiress's grandmother won the lottery and invested her winnings wisely.,Did someone win a trophy?,No,e
+18,The nephew of the hunter knew that there were no wolves left in the eastern part of the forest.,Did someone know something about the forest?,Yes,e
+19,The roommate of the artist was scolded for using expensive paint without permission.,Was someone complimented?,No,e
+20,The singer's cousin called the son of the guitarist a genius for fixing the malfunctioning speaker.,Was something malfunctioning?,Yes,e
+21,The principal of the school never complained about the secretaries because they knew how to keep the printers working.,Did someone complain?,No,e
+22,The student of the magician disappeared during a trick and was never seen again.,Did someone disappear?,Yes,e
+23,The brother of the ice skater decided to open a skating rink so more people could try the sport.,Did someone close a skating rink?,No,e
+24,The great-aunt of the teacher always planned hiking trips for the two of them during the summer.,Did someone plan a trip?,Yes,e
+25,The newest cellist of the orchestra misplaced some sheet music and was embarrassed to ask for extra copies.,Was someone proud?,No,e
+26,The lead actor of the hit movie was embroiled in an embarrassing scandal just before the award show.,Was there a scandal?,Yes,e
+27,The best friend of the prince memorized the guards' names because it was the polite thing to do.,Did someone forget something?,No,e
+28,The sister of the duchess always appreciated the fancy jewelery that she received on her birthday.,Did someone appreciate something?,Yes,e
+29,The brother of the queen spent most of the night in the garden because he hated parties.,Did someone love parties?,No,e
+30,The father of the schoolgirl bought her a cake when she earned an award for her essay.,Was there a cake?,Yes,e
+31,The manager of the grocery store accidentally ordered too many frozen tater tots and had to discount them.,Did someone raise prices?,No,e
+32,The nephew of the duke bought a fancy red sportscar and got a ticket for speeding.,Did someone get a car?,Yes,e
+33,The favorite cafe of the professor donated all of their profits earned on Wednesdays to charity.,Were profits kept by the cafe?,No,e
+34,The lawyer of the mayor had to retake the Bar Exam three times before passing.,Did someone retake an exam?,Yes,e
+35,The head gardener of the amusement park loved to hide painted rocks in the greenery near the rest areas.,Did someone hide toys?,No,e
+36,The aunt of the gambler was confused about why the money she loaned was never repaid.,Was someone confused?,Yes,e
+1,The actress's cousin who owned seventeen dogs vacationed in Italy for a month.,Did someone go to the hospital?,No,h
+2,The movie critic whose sister lived in Rome hated the movie about the lonely heiress.,Did someone hate the movie?,Yes,h
+3,The governess who looked after the children at the party was exhausted by the end of the night.,Was someone looking after dogs?,No,h
+4,The mother of the bride cried as she watched her husband and daughter dance at the wedding.,Was there a wedding?,Yes,h
+5,The captain of the hockey team baked them a pie after they won the championship.,Did someone lose something?,No,h
+6,The cousin of the pianist watched her performance from the front row.,Did someone perform?,Yes,h
+7,The flight attendant asked the brother of the president to fasten his seatbelt after the sign lit up.,Did the brother ask for something?,No,h
+8,The childhood friend of the former empress reached out to her after she relinquished the throne.,Did someone give up their position?,Yes,h
+9,The king of the small country always carried his favorite dagger on the right side of his belt.,Did someone have a sword?,No,h
+10,The brother of the priest thought he would be forgiven for taking money from the collection bin.,Was there a collection bin?,Yes,h
+11,The state elected a new congressman whose sister was their congresswoman the previous year.,Was anyone impeached?,No,h
+12,The nephew of the princess sneezed during the ceremony and was terribly embarrassed.,Was anyone embarrassed?,Yes,h
+13,The policewoman's grandfather retired from the police force before she joined it.,Did someone retire from the army?,No,h
+14,The wife of the fisherman always knitted him a new sweater before the weather got cold.,Did someone make a sweater?,Yes,h
+15,The mother of the queen's lady-in-waiting was arrested for stealing silverware from the castle.,Was someone rewarded?,No,h
+16,The squire of the knight was the only person who could calm the knight's horse when it was upset.,Did knight have a horse?,Yes,h
+17,The heiress's grandmother won the lottery and invested her winnings wisely.,Did someone win a trophy?,No,h
+18,The nephew of the hunter knew that there were no wolves left in the eastern part of the forest.,Did someone know something about the forest?,Yes,h
+19,The roommate of the artist was scolded for using expensive paint without permission.,Was someone complimented?,No,h
+20,The singer's cousin called the son of the guitarist a genius for fixing the malfunctioning speaker.,Was something malfunctioning?,Yes,h
+21,The principal of the school never complained about the secretaries because they knew how to keep the printers working.,Did someone complain?,No,h
+22,The student of the magician disappeared during a trick and was never seen again.,Did someone disappear?,Yes,h
+23,The brother of the ice skater decided to open a skating rink so more people could try the sport.,Did someone close a skating rink?,No,h
+24,The great-aunt of the teacher always planned hiking trips for the two of them during the summer.,Did someone plan a trip?,Yes,h
+25,The newest cellist of the orchestra misplaced some sheet music and was embarrassed to ask for extra copies.,Was someone proud?,No,h
+26,The lead actor of the hit movie was embroiled in an embarrassing scandal just before the award show.,Was there a scandal?,Yes,h
+27,The best friend of the prince memorized the guards' names because it was the polite thing to do.,Did someone forget something?,No,h
+28,The sister of the duchess always appreciated the fancy jewelery that she received on her birthday.,Did someone appreciate something?,Yes,h
+29,The brother of the queen spent most of the night in the garden because he hated parties.,Did someone love parties?,No,h
+30,The father of the schoolgirl bought her a cake when she earned an award for her essay.,Was there a cake?,Yes,h
+31,The manager of the grocery store accidentally ordered too many frozen tater tots and had to discount them.,Did someone raise prices?,No,h
+32,The nephew of the duke bought a fancy red sportscar and got a ticket for speeding.,Did someone get a car?,Yes,h
+33,The favorite cafe of the professor donated all of their profits earned on Wednesdays to charity.,Were profits kept by the cafe?,No,h
+34,The lawyer of the mayor had to retake the Bar Exam three times before passing.,Did someone retake an exam?,Yes,h
+35,The head gardener of the amusement park loved to hide painted rocks in the greenery near the rest areas.,Did someone hide toys?,No,h
+36,The aunt of the gambler was confused about why the money she loaned was never repaid.,Was someone confused?,Yes,h
